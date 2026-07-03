@@ -2,12 +2,11 @@ Interaktywna aplikacja do analizy średnich kursów walut publikowanych przez Na
 
 ---- Link do działającej wersji
 
-`https://twoj-login-nbp-dashboard.streamlit.app`.
+https://praca-projektowa-cqmnqunjaiexahpk2jzzea.streamlit.app/
 
----- Dane pochodzą z publicznego **API NBP**, tabela A — średnie kursy walut:
+---- Dane pochodzą z publicznego API NBP, tabela A — średnie kursy walut:
 
 - dokumentacja API: https://api.nbp.pl/en.html
-- endpoint używany przez aplikację: `https://api.nbp.pl/api/exchangerates/rates/a/{kod}/{data_od}/{data_do}/?format=json`
 
 ---- Co robi aplikacja?
 
