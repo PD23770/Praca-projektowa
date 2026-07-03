@@ -13,6 +13,7 @@ REQUEST_TIMEOUT_SECONDS = 20
 
 
 class NBPApiError(RuntimeError):
+    pass
 
 
 def split_date_range(
